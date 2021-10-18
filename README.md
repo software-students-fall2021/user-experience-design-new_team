@@ -29,7 +29,7 @@ Players can search for or browse the selection of games.
 
 Players can click any game to access the game, or from the game view the comments.
 
-![alt text](ux-design/wireframe/Game_itself.drawio.png)
+![alt text](ux-design/wireframe/game_view.png)
 
 ![alt text](ux-design/wireframe/Comment_Section.drawio.png)
 
