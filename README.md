@@ -1,7 +1,7 @@
 # User Experience Design
 
 ## Prototype
-You can view the [exported prototype on GitHub](ux-design/prototype) or view the actual prototype following this [link].(https://aaronthomas558128.invisionapp.com/overview/-define-var-Game-prototype-ckuuk2nfb0ewv0183czlk4y1i/screens?sortBy=1&sortOrder=1&viewLayout=2)
+You can view the [exported prototype on GitHub](ux-design/prototype) or view the actual prototype following this [link](https://aaronthomas558128.invisionapp.com/overview/-define-var-Game-prototype-ckuuk2nfb0ewv0183czlk4y1i/screens?sortBy=1&sortOrder=1&viewLayout=2).
 
 Note: Some buttons became misaligned in the exported version for some reason, but are correct in the live version.
 
